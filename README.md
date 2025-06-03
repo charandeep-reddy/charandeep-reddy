@@ -1,3 +1,5 @@
-<p align="center">
-  <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=charandeep-reddy&theme=github-dark&hide_border=false'/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=charandeep-reddy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
