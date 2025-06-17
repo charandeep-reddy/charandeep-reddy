@@ -8,17 +8,6 @@ Specializing in landing pages with Next.js, TypeScript, and Tailwind. Actively e
 
 </div>
 
-## 🛠️ What I'm using now
-- **Next.js**
-- **TypeScript** - Makes debugging less painful
-- **Tailwind CSS** - Quick styling without the CSS headaches
-- **Framer Motion** - When clients want those smooth animations
-
-## 📚 What I used before
-- **JavaScript, React, Express.js** - The usual suspects
-- **MongoDB, HTML, CSS** - Basic web stack
-- **Level**: Basic to intermediate with Express and React
-
 ## 🤝 Connect
 - [LinkedIn](https://linkedin.com/in/charandeep-reddy) - Let's network
 - 📧 Always open to opportunities and learning
