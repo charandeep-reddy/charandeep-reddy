@@ -9,7 +9,8 @@ Specializing in landing pages with Next.js, TypeScript, and Tailwind. Actively e
 
 ## 🤝 Connect
 - [LinkedIn](https://linkedin.com/in/charandeep-reddy) - Let's network
-- 📧 Always open to opportunities and learning
+- [Instagram](https://instagram.com/charan._.tech36) - Follow my journey
+- [charan.tech36@gmail.com](mailto:charan.tech36@gmail.com) - Always open to opportunities and learning
 
 <div align="center">
 
