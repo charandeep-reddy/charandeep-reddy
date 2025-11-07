@@ -1,4 +1,4 @@
-# Hey, I'm Charandeep 👋
+# Hey, I'm Charan 👋
 
 Specializing in landing pages with Next.js, TypeScript, and Tailwind. Actively exploring backend development to build full-stack capabilities.
 
