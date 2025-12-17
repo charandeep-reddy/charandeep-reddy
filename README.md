@@ -2,7 +2,7 @@
 
 
 
-Specializing in landing pages with Next.js, TypeScript, and Tailwind. Actively exploring backend development to build full-stack capabilities.
+Frontend-focused developer working primarily with Next.js, TypeScript, and Tailwind, with a strong interest in building clean, fast, and user-focused interfaces.
 
 <div align= "center">
 
