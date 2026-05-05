@@ -6,7 +6,7 @@ Frontend-focused developer working primarily with Next.js, TypeScript, and Tailw
 
 <div align= "center">
 
-  <img src="https://github-streak-badge.gitstreak.workers.dev/?user=charandeep-reddy" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=charandeep-reddy&theme=blue-navy" alt="GitHub Streak" /></a>
 
 </div>
 
