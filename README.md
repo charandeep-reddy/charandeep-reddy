@@ -1,6 +1,4 @@
-# Charan
-
-i build and deploy full web apps solo. clients get a working product, not a handoff.
+I build and deploy full web apps solo. clients get a working product, not a handoff.
 
 ---
 
