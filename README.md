@@ -16,7 +16,7 @@ I build and deploy full web apps solo. clients get a working product, not a hand
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=charandeep-reddy&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=charandeep-reddy&theme=blue-navy" alt="GitHub Streak" /></a>
 
 </div>
 
